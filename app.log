@@ -1,0 +1,4 @@
+2022-06-02 05:06:50,219    settings.setting - INFO : Config file Read successfully!
+2022-06-02 05:08:47,888    settings.setting - INFO : Config file Read successfully!
+2022-06-02 05:09:07,205    app.run - INFO : New directory created 'Array'!
+2022-06-02 05:09:07,205    app.run - INFO : New directory created 'Reverse_array'!
