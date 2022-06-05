@@ -44,7 +44,8 @@ class run:
             self.problem_title = list_dir_pt[choice]
         else:
             self.problem_title = "_".join(input("Problem title:").strip().split(" "))
-        # print(self.problem_title)
+        
+
     def sample_code_line_data(self,filename):
         lines = []
         file1 = open(os.path.join(self.sample_code_dir,filename),"r")
