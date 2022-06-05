@@ -10,3 +10,5 @@
 2022-06-05 18:11:42,698    settings.setting - INFO : Config file Read successfully!
 2022-06-05 18:59:22,859    settings.setting - INFO : Config file Read successfully!
 2022-06-05 18:59:49,379    app.run - INFO : New directory created 'findNumIsPowerOf2'!
+2022-06-05 22:37:35,542    settings.setting - INFO : Config file Read successfully!
+2022-06-05 22:38:21,617    app.run - INFO : New directory created 'findNumOfOneInBNum'!
