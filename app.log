@@ -12,3 +12,7 @@
 2022-06-05 18:59:49,379    app.run - INFO : New directory created 'findNumIsPowerOf2'!
 2022-06-05 22:37:35,542    settings.setting - INFO : Config file Read successfully!
 2022-06-05 22:38:21,617    app.run - INFO : New directory created 'findNumOfOneInBNum'!
+2022-06-05 23:06:49,699    settings.setting - INFO : Config file Read successfully!
+2022-06-05 23:09:24,475    app.run - INFO : New directory created 'findUniqueNumberOthNum2'!
+2022-06-05 23:18:58,079    settings.setting - INFO : Config file Read successfully!
+2022-06-05 23:19:45,857    app.run - INFO : New directory created 'find2UniqueNumberOthNum2x'!
