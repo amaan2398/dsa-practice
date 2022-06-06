@@ -25,3 +25,5 @@
 2022-06-06 23:52:08,013    app.run - INFO : New directory created 'pascalsTriangle'!
 2022-06-07 01:00:21,420    settings.setting - INFO : Config file Read successfully!
 2022-06-07 01:00:43,583    app.run - INFO : New directory created 'nextPermutation'!
+2022-06-07 01:16:56,737    settings.setting - INFO : Config file Read successfully!
+2022-06-07 01:18:12,829    app.run - INFO : New directory created 'maxSumSubarray'!
