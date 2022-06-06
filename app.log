@@ -18,3 +18,6 @@
 2022-06-05 23:19:45,857    app.run - INFO : New directory created 'find2UniqueNumberOthNum2x'!
 2022-06-05 23:54:42,854    settings.setting - INFO : Config file Read successfully!
 2022-06-05 23:55:24,889    app.run - INFO : New directory created 'findUniqueNumOthNum3xOrMore'!
+2022-06-06 22:56:05,139    settings.setting - INFO : Config file Read successfully!
+2022-06-06 22:56:55,092    app.run - INFO : New directory created 'Array [Day 1]'!
+2022-06-06 22:56:55,093    app.run - INFO : New directory created 'setMatrixZeroes'!
