@@ -27,3 +27,5 @@
 2022-06-07 01:00:43,583    app.run - INFO : New directory created 'nextPermutation'!
 2022-06-07 01:16:56,737    settings.setting - INFO : Config file Read successfully!
 2022-06-07 01:18:12,829    app.run - INFO : New directory created 'maxSumSubarray'!
+2022-06-08 01:14:02,342    settings.setting - INFO : Config file Read successfully!
+2022-06-08 01:14:33,085    app.run - INFO : New directory created 'sortArrayOf012'!
