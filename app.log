@@ -31,3 +31,10 @@
 2022-06-08 01:14:33,085    app.run - INFO : New directory created 'sortArrayOf012'!
 2022-06-08 01:42:33,367    settings.setting - INFO : Config file Read successfully!
 2022-06-08 01:43:45,094    app.run - INFO : New directory created 'stockBuyAndSell'!
+2022-06-08 02:05:08,620    settings.setting - INFO : Config file Read successfully!
+2022-06-08 02:05:45,818    settings.setting - INFO : Config file Read successfully!
+2022-06-08 02:06:34,120    app.run - INFO : New directory created 'Array [Day 2]'!
+2022-06-08 02:06:34,122    app.run - INFO : New directory created 'matrixRotation'!
+2022-06-08 02:06:54,731    settings.setting - INFO : Config file Read successfully!
+2022-06-08 03:26:39,529    settings.setting - INFO : Config file Read successfully!
+2022-06-08 03:27:02,757    app.run - INFO : New directory created 'imageMatrixRotation'!
