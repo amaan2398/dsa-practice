@@ -38,3 +38,5 @@
 2022-06-08 02:06:54,731    settings.setting - INFO : Config file Read successfully!
 2022-06-08 03:26:39,529    settings.setting - INFO : Config file Read successfully!
 2022-06-08 03:27:02,757    app.run - INFO : New directory created 'imageMatrixRotation'!
+2022-06-09 05:12:52,033    settings.setting - INFO : Config file Read successfully!
+2022-06-09 05:13:22,204    app.run - INFO : New directory created 'mergeIntervals'!
