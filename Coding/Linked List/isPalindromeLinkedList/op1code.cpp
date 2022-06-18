@@ -1,11 +1,11 @@
 /*
 @ Creator: Amaan Shaikh
 @ Problem_Title: isPalindromeLinkedList
-    @ Problem_Statement: 
-    @ Data_Structure: 
-    @ Algorithm:
-    @ Level: 
-    @ URL: 
+    @ Problem_Statement: Given the head of a singly linked list, return true if it is a palindrome.
+    @ Data_Structure: Linked List
+    @ Algorithm: revese and mid of linked list combo
+    @ Level: Easy
+    @ URL: https://leetcode.com/problems/palindrome-linked-list/
 @ Approach: Optimized Approach 1
 @ Date_Time: June 19, 2022 01:05:28
 */
