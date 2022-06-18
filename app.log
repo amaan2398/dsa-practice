@@ -58,3 +58,5 @@
 2022-06-18 13:00:05,106    app.run - INFO : New directory created 'findBeginingOfCycleInLL'!
 2022-06-18 13:06:40,037    settings.setting - INFO : Config file Read successfully!
 2022-06-18 13:06:59,357    app.run - INFO : New directory created 'doublyLinkedList'!
+2022-06-18 22:07:16,955    settings.setting - INFO : Config file Read successfully!
+2022-06-18 22:07:37,465    app.run - INFO : New directory created 'appendLastKNodes_rotateLL'!
