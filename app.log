@@ -48,3 +48,5 @@
 2022-06-18 10:02:36,284    settings.setting - INFO : Config file Read successfully!
 2022-06-18 10:18:51,722    settings.setting - INFO : Config file Read successfully!
 2022-06-18 10:19:20,642    app.run - INFO : New directory created 'reverseKNodesLinkedList'!
+2022-06-18 11:52:50,666    settings.setting - INFO : Config file Read successfully!
+2022-06-18 11:53:04,916    app.run - INFO : New directory created 'middleOfLinkedList'!
