@@ -64,13 +64,12 @@ void deletion(node* &head, int val){
         deleteAtHead(head);
         return;
     }
-    while(iter->next->data != val){
+    while(iter->data != val){
         iter = iter->next;
     }
-    node* todelete = iter->next;
-    iter->next = iter->next->next;
-    iter->next->prev = iter;
-    delete todelete;
+    iter->next->prev = iter->prev;
+    iter->prev->next = iter->next;
+    delete iter;
 }
 
 void display(node* head){
