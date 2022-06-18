@@ -44,4 +44,5 @@
 2022-06-18 08:26:38,260    app.run - INFO : New directory created 'Linked List'!
 2022-06-18 08:26:38,261    app.run - INFO : New directory created 'linkedListIntro'!
 2022-06-18 09:24:29,909    settings.setting - INFO : Config file Read successfully!
-2022-06-18 09:25:08,362    app.run - INFO : New directory created 'reveseLinkedList'!
+2022-06-18 09:25:08,362    app.run - INFO : New directory created 'reverseLinkedList'!
+2022-06-18 10:02:36,284    settings.setting - INFO : Config file Read successfully!
