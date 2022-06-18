@@ -54,3 +54,5 @@
 2022-06-18 11:58:30,109    app.run - INFO : New directory created 'deleteNode_O_1__LinkedList'!
 2022-06-18 12:29:30,785    settings.setting - INFO : Config file Read successfully!
 2022-06-18 12:30:11,679    app.run - INFO : New directory created 'linkedListHasCycleOrNot'!
+2022-06-18 12:59:11,145    settings.setting - INFO : Config file Read successfully!
+2022-06-18 13:00:05,106    app.run - INFO : New directory created 'findBeginingOfCycleInLL'!
