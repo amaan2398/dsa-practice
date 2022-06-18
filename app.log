@@ -40,3 +40,6 @@
 2022-06-08 03:27:02,757    app.run - INFO : New directory created 'imageMatrixRotation'!
 2022-06-09 05:12:52,033    settings.setting - INFO : Config file Read successfully!
 2022-06-09 05:13:22,204    app.run - INFO : New directory created 'mergeIntervals'!
+2022-06-18 08:26:02,887    settings.setting - INFO : Config file Read successfully!
+2022-06-18 08:26:38,260    app.run - INFO : New directory created 'Linked List'!
+2022-06-18 08:26:38,261    app.run - INFO : New directory created 'linkedListIntro'!
