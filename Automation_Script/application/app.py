@@ -18,6 +18,7 @@ class run:
 
     def take_input(self):
         #Topic 
+        self.new_topic=False
         self.listout_dir()
         print("TOPIC DIR LIST:")
         for i,dir_name in enumerate(self.list_dir):
