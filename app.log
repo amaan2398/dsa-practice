@@ -80,3 +80,5 @@
 2022-06-22 06:30:18,648    app.run - INFO : New directory created 'quickSort'!
 2022-06-22 07:17:05,212    settings.setting - INFO : Config file Read successfully!
 2022-06-22 07:17:43,568    app.run - INFO : New directory created 'countSort'!
+2022-06-22 07:46:18,293    settings.setting - INFO : Config file Read successfully!
+2022-06-22 07:46:31,519    app.run - INFO : New directory created 'waveSort'!
