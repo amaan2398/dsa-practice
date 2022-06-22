@@ -28,6 +28,8 @@ class run:
             self.topic = self.list_dir[choice]
         else:
             self.topic = input("New topic name: ")
+            if self.topic == "":
+                return False
             self.new_topic = True
         # print(self.list_dir)
 
@@ -44,6 +46,9 @@ class run:
             self.problem_title = list_dir_pt[choice]
         else:
             self.problem_title = "_".join(input("Problem title:").strip().split(" "))
+            if self.problem_title == "":
+                return False
+        return True
         
 
     def sample_code_line_data(self,filename):
@@ -114,5 +119,7 @@ class run:
         
 
     def runner(self):
-        self.take_input()
+        worked = False
+        while(not worked):
+            worked = self.take_input()
         self.create_files()
