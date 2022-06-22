@@ -76,3 +76,5 @@
 2022-06-22 06:00:08,685    settings.setting - INFO : Config file Read successfully!
 2022-06-22 06:00:51,466    app.run - INFO : New directory created 'Sorting Algo'!
 2022-06-22 06:00:51,468    app.run - INFO : New directory created 'mergeSort'!
+2022-06-22 06:30:06,837    settings.setting - INFO : Config file Read successfully!
+2022-06-22 06:30:18,648    app.run - INFO : New directory created 'quickSort'!
