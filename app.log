@@ -84,3 +84,6 @@
 2022-06-22 07:46:31,519    app.run - INFO : New directory created 'waveSort'!
 2022-06-23 06:55:30,778    settings.setting - INFO : Config file Read successfully!
 2022-06-23 06:55:56,994    app.run - INFO : New directory created 'countInvertionOfArray'!
+2022-06-23 07:58:55,097    settings.setting - INFO : Config file Read successfully!
+2022-06-23 07:59:22,994    app.run - INFO : New directory created 'Sliding Window'!
+2022-06-23 07:59:22,995    app.run - INFO : New directory created 'slidingWindowMaximum'!
