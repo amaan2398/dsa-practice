@@ -87,3 +87,7 @@
 2022-06-23 07:58:55,097    settings.setting - INFO : Config file Read successfully!
 2022-06-23 07:59:22,994    app.run - INFO : New directory created 'Sliding Window'!
 2022-06-23 07:59:22,995    app.run - INFO : New directory created 'slidingWindowMaximum'!
+2022-06-23 09:01:35,881    settings.setting - INFO : Config file Read successfully!
+2022-06-23 09:01:54,254    settings.setting - INFO : Config file Read successfully!
+2022-06-23 09:02:15,098    app.run - INFO : New directory created 'Array [Day 5]'!
+2022-06-23 09:02:15,099    app.run - INFO : New directory created '3sum'!
