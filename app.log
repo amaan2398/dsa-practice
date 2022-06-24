@@ -93,3 +93,6 @@
 2022-06-23 09:02:15,099    app.run - INFO : New directory created '3sum'!
 2022-06-24 23:35:11,264    settings.setting - INFO : Config file Read successfully!
 2022-06-24 23:35:37,290    app.run - INFO : New directory created 'maxConsecutiveOnes'!
+2022-06-25 01:03:07,538    settings.setting - INFO : Config file Read successfully!
+2022-06-25 01:04:22,619    app.run - INFO : New directory created 'Array [Day 4]'!
+2022-06-25 01:04:22,621    app.run - INFO : New directory created 'longestSubstrWithoutRepChar'!
