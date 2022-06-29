@@ -1,11 +1,11 @@
 /*
 @ Creator: Amaan Shaikh
 @ Problem_Title: topKFrequentElements
-    @ Problem_Statement: 
-    @ Data_Structure: 
-    @ Algorithm:
-    @ Level: 
-    @ URL: 
+    @ Problem_Statement: Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
+    @ Data_Structure: Heap and Map
+    @ Algorithm: None
+    @ Level: Medium
+    @ URL: https://leetcode.com/problems/top-k-frequent-elements/
 @ Approach: Optimized Approach 1
 @ Date_Time: June 29, 2022 08:14:57
 */
