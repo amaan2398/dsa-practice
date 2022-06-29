@@ -99,3 +99,6 @@
 2022-06-26 07:22:07,330    settings.setting - INFO : Config file Read successfully!
 2022-06-26 07:23:11,623    app.run - INFO : New directory created 'Binary Search'!
 2022-06-26 07:23:11,625    app.run - INFO : New directory created 'maximiseMinimumDistance'!
+2022-06-29 08:14:11,690    settings.setting - INFO : Config file Read successfully!
+2022-06-29 08:14:57,370    app.run - INFO : New directory created 'Heap'!
+2022-06-29 08:14:57,372    app.run - INFO : New directory created 'topKFrequentElements'!
