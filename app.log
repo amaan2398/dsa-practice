@@ -116,3 +116,5 @@
 2022-06-30 21:18:06,503    app.run - INFO : New directory created 'wildcardMatching'!
 2022-06-30 21:22:32,401    settings.setting - INFO : Config file Read successfully!
 2022-06-30 21:22:53,950    app.run - INFO : New directory created 'BFSinGraph'!
+2022-06-30 21:30:09,288    settings.setting - INFO : Config file Read successfully!
+2022-06-30 21:30:30,226    app.run - INFO : New directory created 'wordLadder'!
