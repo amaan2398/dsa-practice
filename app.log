@@ -102,3 +102,6 @@
 2022-06-29 08:14:11,690    settings.setting - INFO : Config file Read successfully!
 2022-06-29 08:14:57,370    app.run - INFO : New directory created 'Heap'!
 2022-06-29 08:14:57,372    app.run - INFO : New directory created 'topKFrequentElements'!
+2022-06-30 20:55:28,430    settings.setting - INFO : Config file Read successfully!
+2022-06-30 20:56:17,057    app.run - INFO : New directory created 'Queue'!
+2022-06-30 20:56:17,059    app.run - INFO : New directory created 'distanceOfNearestCellHaving1'!
