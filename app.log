@@ -108,3 +108,6 @@
 2022-06-30 21:05:13,799    settings.setting - INFO : Config file Read successfully!
 2022-06-30 21:06:30,398    app.run - INFO : New directory created 'Greedy'!
 2022-06-30 21:06:30,400    app.run - INFO : New directory created 'maxNumOfCoinsYouCanGet'!
+2022-06-30 21:11:12,357    settings.setting - INFO : Config file Read successfully!
+2022-06-30 21:11:40,090    app.run - INFO : New directory created 'Graph'!
+2022-06-30 21:11:40,093    app.run - INFO : New directory created 'courseSchedule'!
