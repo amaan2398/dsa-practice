@@ -111,3 +111,6 @@
 2022-06-30 21:11:12,357    settings.setting - INFO : Config file Read successfully!
 2022-06-30 21:11:40,090    app.run - INFO : New directory created 'Graph'!
 2022-06-30 21:11:40,093    app.run - INFO : New directory created 'courseSchedule'!
+2022-06-30 21:17:24,363    settings.setting - INFO : Config file Read successfully!
+2022-06-30 21:18:06,501    app.run - INFO : New directory created 'Dynamic Programming'!
+2022-06-30 21:18:06,503    app.run - INFO : New directory created 'wildcardMatching'!
