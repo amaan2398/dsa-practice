@@ -123,3 +123,5 @@
 2022-07-01 08:57:57,748    settings.setting - INFO : Config file Read successfully!
 2022-07-01 09:01:16,470    app.run - INFO : New directory created 'Binary Tree'!
 2022-07-01 09:01:16,473    app.run - INFO : New directory created 'convertBTreeToMirroTree'!
+2022-07-01 11:05:25,034    settings.setting - INFO : Config file Read successfully!
+2022-07-01 11:06:01,893    app.run - INFO : New directory created 'checkCompletenessOfBTree'!
