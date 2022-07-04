@@ -125,3 +125,6 @@
 2022-07-01 09:01:16,473    app.run - INFO : New directory created 'convertBTreeToMirroTree'!
 2022-07-01 11:05:25,034    settings.setting - INFO : Config file Read successfully!
 2022-07-01 11:06:01,893    app.run - INFO : New directory created 'checkCompletenessOfBTree'!
+2022-07-04 22:15:06,910    settings.setting - INFO : Config file Read successfully!
+2022-07-04 22:15:51,912    app.run - INFO : New directory created 'Recursion and Backtracking'!
+2022-07-04 22:15:51,917    app.run - INFO : New directory created 'printAllPermutations'!
