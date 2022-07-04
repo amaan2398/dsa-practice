@@ -128,3 +128,5 @@
 2022-07-04 22:15:06,910    settings.setting - INFO : Config file Read successfully!
 2022-07-04 22:15:51,912    app.run - INFO : New directory created 'Recursion and Backtracking'!
 2022-07-04 22:15:51,917    app.run - INFO : New directory created 'printAllPermutations'!
+2022-07-04 22:43:02,500    settings.setting - INFO : Config file Read successfully!
+2022-07-04 22:43:52,396    app.run - INFO : New directory created 'printAllPermutationsNonDistEle'!
