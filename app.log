@@ -130,3 +130,5 @@
 2022-07-04 22:15:51,917    app.run - INFO : New directory created 'printAllPermutations'!
 2022-07-04 22:43:02,500    settings.setting - INFO : Config file Read successfully!
 2022-07-04 22:43:52,396    app.run - INFO : New directory created 'printAllPermutationsNonDistEle'!
+2022-07-06 23:43:56,976    settings.setting - INFO : Config file Read successfully!
+2022-07-06 23:44:23,846    app.run - INFO : New directory created 'geeklandColosseum'!
