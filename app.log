@@ -135,3 +135,6 @@
 2022-07-06 23:54:47,455    settings.setting - INFO : Config file Read successfully!
 2022-07-06 23:55:12,635    app.run - INFO : New directory created 'Array'!
 2022-07-06 23:55:12,637    app.run - INFO : New directory created 'Police_Station'!
+2022-07-07 22:42:21,700    settings.setting - INFO : Config file Read successfully!
+2022-07-07 22:42:55,975    app.run - INFO : New directory created 'Stack'!
+2022-07-07 22:42:55,978    app.run - INFO : New directory created 'stackIntro'!
