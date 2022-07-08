@@ -140,3 +140,5 @@
 2022-07-07 22:42:55,978    app.run - INFO : New directory created 'stackIntro'!
 2022-07-07 23:29:38,354    settings.setting - INFO : Config file Read successfully!
 2022-07-07 23:29:57,325    app.run - INFO : New directory created 'reverseAStack'!
+2022-07-08 22:50:54,774    settings.setting - INFO : Config file Read successfully!
+2022-07-08 22:51:22,429    app.run - INFO : New directory created 'paintHouseIII'!
