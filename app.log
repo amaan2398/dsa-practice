@@ -144,3 +144,5 @@
 2022-07-08 22:51:22,429    app.run - INFO : New directory created 'paintHouseIII'!
 2022-07-13 21:53:17,760    settings.setting - INFO : Config file Read successfully!
 2022-07-13 21:56:28,376    app.run - INFO : New directory created 'arithmeticExpressionEvaluation'!
+2022-07-13 23:14:26,982    settings.setting - INFO : Config file Read successfully!
+2022-07-13 23:14:46,956    app.run - INFO : New directory created 'validExpression'!
