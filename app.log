@@ -157,3 +157,5 @@
 2022-07-15 03:19:16,195    settings.setting - INFO : Config file Read successfully!
 2022-07-15 21:26:13,179    settings.setting - INFO : Config file Read successfully!
 2022-07-15 21:27:02,995    app.run - INFO : New directory created 'maximumRectangularAreaHistogram'!
+2022-07-15 21:57:38,000    settings.setting - INFO : Config file Read successfully!
+2022-07-15 21:58:00,104    app.run - INFO : New directory created 'trappingRainWater'!
