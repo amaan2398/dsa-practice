@@ -14,42 +14,13 @@
 
 using namespace std;
 
-long long getMaxArea(long long arr[], int n)
-{
-    // Your code here
-    vector<long long> data;
-    for(int i = 0; i < n; i++){
-        data.push_back(arr[i]);
-    }
-    data.push_back(0);
-    stack<long long> st;
-    long long ans = 0;
-    for(int i = 0; i <= n; i++){
-        while((!st.empty())and (data[st.top()] > data[i])){
-            long long pos = st.top();
-            long long h = data[pos];
-            st.pop();
-            if(st.empty()){
-                long long v = h*i;
-                ans = max(ans, v);
-            }
-            else{
-                long long v = h*((i-st.top())-1);
-                ans = max(ans, v);
-            }
-        }
-        st.push(i);
-    }
-    return ans;
+void worker(){
+    cout << "Programmer!"<< endl;
+    return;
 }
 
 int main(){
-    int n = 0;
-    cin >> n;
-    long long arr[n];
-    for(int i = 0; i < n; i++){
-        cin >> arr[i];
-    }
-    cout << getMaxArea(arr,n)<<endl;
+    cout << "Hello ";
+    worker();
     return 0;
 }
