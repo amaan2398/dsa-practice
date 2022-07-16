@@ -161,3 +161,4 @@
 2022-07-15 21:58:00,104    app.run - INFO : New directory created 'trappingRainWater'!
 2022-07-15 22:45:00,088    settings.setting - INFO : Config file Read successfully!
 2022-07-15 22:45:17,403    app.run - INFO : New directory created 'redundantBrackets'!
+2022-07-17 00:28:07,663    settings.setting - INFO : Config file Read successfully!
