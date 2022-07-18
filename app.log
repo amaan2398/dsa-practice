@@ -162,3 +162,7 @@
 2022-07-15 22:45:00,088    settings.setting - INFO : Config file Read successfully!
 2022-07-15 22:45:17,403    app.run - INFO : New directory created 'redundantBrackets'!
 2022-07-17 00:28:07,663    settings.setting - INFO : Config file Read successfully!
+2022-07-19 04:10:28,137    settings.setting - INFO : Config file Read successfully!
+2022-07-19 04:11:36,466    app.run - INFO : New directory created 'binaryTreeTraversals'!
+2022-07-19 04:11:47,421    settings.setting - INFO : Config file Read successfully!
+2022-07-19 04:11:59,193    settings.setting - INFO : Config file Read successfully!
