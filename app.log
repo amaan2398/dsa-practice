@@ -166,3 +166,5 @@
 2022-07-19 04:11:36,466    app.run - INFO : New directory created 'binaryTreeTraversals'!
 2022-07-19 04:11:47,421    settings.setting - INFO : Config file Read successfully!
 2022-07-19 04:11:59,193    settings.setting - INFO : Config file Read successfully!
+2022-07-19 06:12:54,314    settings.setting - INFO : Config file Read successfully!
+2022-07-19 06:13:35,933    app.run - INFO : New directory created 'binaryTreeKLevelSumString'!
