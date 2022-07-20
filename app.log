@@ -170,3 +170,5 @@
 2022-07-19 06:13:35,933    app.run - INFO : New directory created 'binaryTreeKLevelSumString'!
 2022-07-19 06:37:47,365    settings.setting - INFO : Config file Read successfully!
 2022-07-19 06:38:20,351    app.run - INFO : New directory created 'transformToSumTree'!
+2022-07-20 22:56:24,668    settings.setting - INFO : Config file Read successfully!
+2022-07-20 22:57:53,479    app.run - INFO : New directory created 'lowestCommonAncestor(LCA)'!
