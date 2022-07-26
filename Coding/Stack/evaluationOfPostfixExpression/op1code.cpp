@@ -1,11 +1,11 @@
 /*
 @ Creator: Amaan Shaikh
 @ Problem_Title: evaluationOfPostfixExpression
-    @ Problem_Statement: 
-    @ Data_Structure: 
-    @ Algorithm:
-    @ Level: 
-    @ URL: 
+    @ Problem_Statement: Given string S representing a postfix expression, the task is to evaluate the expression and find the final value. Operators will only include the basic arithmetic operators like *, /, + and -.
+    @ Data_Structure: Stack 
+    @ Algorithm: None
+    @ Level: Easy
+    @ URL: https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1
 @ Approach: Optimized Approach 1
 @ Date_Time: July 27, 2022 01:47:14
 */
