@@ -177,3 +177,5 @@
 2022-07-26 23:13:00,938    settings.setting - INFO : Config file Read successfully!
 2022-07-27 01:46:45,474    settings.setting - INFO : Config file Read successfully!
 2022-07-27 01:47:14,327    app.run - INFO : New directory created 'evaluationOfPostfixExpression'!
+2022-07-27 02:54:29,670    settings.setting - INFO : Config file Read successfully!
+2022-07-27 02:54:54,354    app.run - INFO : New directory created 'infixToPostfix'!
