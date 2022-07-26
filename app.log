@@ -179,3 +179,6 @@
 2022-07-27 01:47:14,327    app.run - INFO : New directory created 'evaluationOfPostfixExpression'!
 2022-07-27 02:54:29,670    settings.setting - INFO : Config file Read successfully!
 2022-07-27 02:54:54,354    app.run - INFO : New directory created 'infixToPostfix'!
+2022-07-27 03:45:47,601    settings.setting - INFO : Config file Read successfully!
+2022-07-27 03:46:30,336    settings.setting - INFO : Config file Read successfully!
+2022-07-27 03:46:39,726    app.run - INFO : New directory created 'largestRectangleInHistogram'!
