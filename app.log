@@ -175,3 +175,5 @@
 2022-07-26 23:12:07,418    settings.setting - INFO : Config file Read successfully!
 2022-07-26 23:13:00,448    app.run - INFO : New directory created 'reverseWordsInGivenString'!
 2022-07-26 23:13:00,938    settings.setting - INFO : Config file Read successfully!
+2022-07-27 01:46:45,474    settings.setting - INFO : Config file Read successfully!
+2022-07-27 01:47:14,327    app.run - INFO : New directory created 'evaluationOfPostfixExpression'!
