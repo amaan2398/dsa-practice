@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch BCode",
+            "request": "launch",
+            "mainClass": "BCode",
+            "projectName": "dsa-practice_dbdeb6e8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Op1Code",
+            "request": "launch",
+            "mainClass": "Op1Code",
+            "projectName": "dsa-practice_dbdeb6e8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code",
+            "request": "launch",
+            "mainClass": "Code",
+            "projectName": "dsa-practice_dbdeb6e8"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",

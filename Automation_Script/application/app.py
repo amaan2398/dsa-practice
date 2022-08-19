@@ -78,7 +78,7 @@ class run:
         
         #Copy Sample Code file to Problem Dir
         self.sample_code_dir=os.path.join(self.setting.BASE_DIR_PATH,"SampleCode")
-        filename = "code.cpp"
+        filename = "Code.java"
         lines = self.sample_code_line_data(filename)
         new_lines = []
         approach_idx = 0
@@ -106,9 +106,9 @@ class run:
             file2.close()
         
         i = 1
-        while os.path.exists(os.path.join(problem_dir,"op"+str(i)+filename)):
+        while os.path.exists(os.path.join(problem_dir,"Op"+str(i)+filename)):
             i+=1
-        file2 = open(os.path.join(problem_dir,"op"+str(i)+filename),'w')
+        file2 = open(os.path.join(problem_dir,"Op"+str(i)+filename),'w')
         t_new_lines = []
         for k,d in enumerate(new_lines):
             if (k == approach_idx):
